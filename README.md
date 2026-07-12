@@ -1,4 +1,4 @@
-# Stock-News-Signal-Analyzer
+# stock-news-signal-analyzer
 
 This app reads recent news about a stock and tells you whether the coverage has been mostly positive, negative, or mixed.
 
